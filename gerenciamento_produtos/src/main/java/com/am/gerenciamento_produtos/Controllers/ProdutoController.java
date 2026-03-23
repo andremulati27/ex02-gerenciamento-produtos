@@ -14,7 +14,7 @@ import java.util.Optional;
 public class ProdutoController {
 
     @Autowired
-    private ProdutoService produtoService;
+    private ProdutoServices produtoService;
 
     @GetMapping
     public ResponseEntity<List<ProdutoModel>> findAll(){
