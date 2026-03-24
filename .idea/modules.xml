@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gerenciamento_produtos.iml" filepath="$PROJECT_DIR$/.idea/gerenciamento_produtos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ex02-gerenciamento-produtos.iml" filepath="$PROJECT_DIR$/.idea/ex02-gerenciamento-produtos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gerenciamento_produtos/gerenciamento_produtos.iml" filepath="$PROJECT_DIR$/gerenciamento_produtos/gerenciamento_produtos.iml" />
     </modules>
   </component>
 </project>
